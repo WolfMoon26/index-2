@@ -1,0 +1,12 @@
+<html>
+<head>
+<style>
+</style>
+var name = 17;
+function name(){
+name = name +20;
+}
+</script>
+</heaad>
+<body>
+<button id="myid"onclick=name();"> text </button>
